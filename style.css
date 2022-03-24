@@ -1,0 +1,93 @@
+.abt {
+  color: white;
+}
+.c {
+  font-family: "Bebas Neue", cursive;
+}
+h1 {
+  font-family: "Noto Serif", serif;
+}
+img {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  border-radius: 100px;
+  float: left;
+  margin-right: 30px;
+}
+.bck {
+  background-image: url(file:///C:/Users/amirc/Downloads/Images/sky2.jpg.jpg);
+  background-size: cover;
+  padding: 3px;
+  object-fit: cover;
+  border-style: solid;
+  border-width: 8px;
+  border-color: black;
+}
+.solid {
+  font-family: "Roboto Slab", serif;
+  font-size: larger;
+  border-style: solid;
+  border-width: 4px;
+  border-color: black;
+  padding: 12px;
+}
+.m {
+  font-family: "Roboto Slab", serif;
+  font-size: medium;
+  color: white;
+}
+a {
+  color: white;
+  font-family: "Roboto Slab", serif;
+  font-size: medium;
+}
+#red {
+  color: red;
+}
+#grey {
+  background-color: rgba(169, 169, 169, 0.253);
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+}
+#change {
+  color: crimson;
+}
+.pnk {
+  color: blue;
+  font-size: -webkit-xxx-large;
+  font-style: oblique;
+  text-align: center;
+}
+.btn {
+  background-color: darkgrey;
+  top: 15%;
+  box-shadow: black;
+  border-radius: 30px;
+}
+#sng {
+  font-size: -webkit-xxx-large;
+  text-align: center;
+  color: darkorchid;
+}
+#icon1 {
+  color: yellow;
+  font-family: "Roboto Slab", serif;
+  font-size: xx-large;
+  background-color: rgba(0, 0, 0, 0.87);
+}
+#icon2 {
+  color: blue;
+  font-family: "Roboto Slab", serif;
+  font-size: xx-large;
+}
+#icon3 {
+  color: orange;
+  font-family: "Roboto Slab", serif;
+  font-size: xx-large;
+}
+#icon4 {
+  color: purple;
+  font-family: "Roboto Slab", serif;
+  font-size: xx-large;
+}
